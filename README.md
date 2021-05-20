@@ -1,5 +1,5 @@
 # Data Analysis of New York City Airbnb
-You can access this analysis through [[Airbnb.ipynb]](https://github.com/hamedmkazemi/Airbnb_Data_Analysis/blob/main/Airbnb.ipynb) file.  
+You can access this analysis through [Airbnb.ipynb](https://github.com/hamedmkazemi/Airbnb_Data_Analysis/blob/main/Airbnb.ipynb) file.  
 
 The figure shows the location and availability of hosts in a year.  
 <p align="center">
